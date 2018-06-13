@@ -289,7 +289,7 @@ form#contact button {
 @media screen and (min-width: 900px) and (orientation: landscape) {
 
   body {
-    background: url("images/background.jpg") center/cover fixed no-repeat;
+    background: url("images/background.jpg") center/cover fixed no-repeat #404040;
   }
 
   #logo-link:hover {
