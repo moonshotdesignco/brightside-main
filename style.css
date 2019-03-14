@@ -51,7 +51,9 @@ a {
 }
 
 .main-menu-link-img {
-  width: 100%;
+  width: initial;
+  max-width: 100%;
+  height: 2.5rem;
   margin-top: 0.5rem;
 }
 
@@ -217,7 +219,6 @@ form#contact button {
   }
 
   .main-menu-link-img {
-    width: initial;
     height: 5rem;
     margin-top: 0.5rem;
   }
