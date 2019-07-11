@@ -309,8 +309,8 @@ form#contact button {
   }
 
   #music-container {
-    -ms-grid-columns: (1fr)[5];
-        grid-template-columns: repeat(5, 1fr);
+    -ms-grid-columns: (1fr)[4];
+        grid-template-columns: repeat(4, 1fr);
   }
 
   .album-link-apple-a:hover {
@@ -328,8 +328,8 @@ form#contact button {
 @media screen and (min-width: 1200px) {
 
   #music-container {
-    -ms-grid-columns: (1fr)[5];
-        grid-template-columns: repeat(5, 1fr);
+    -ms-grid-columns: (1fr)[4];
+        grid-template-columns: repeat(4, 1fr);
   }
 
   .album-container {
